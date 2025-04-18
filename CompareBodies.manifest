@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"author":	"MaestroFusion360",
+	"description":	{
+		"":	"Compare two selected bodies by volume and surface area"
+	},
+	"version":	"1.0.0.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows",
+	"editEnabled":	true,
+	"iconFilename":	"icon.svg"
+}

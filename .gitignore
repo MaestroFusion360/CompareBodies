@@ -1,0 +1,10 @@
+.env
+.vscode/launch.json
+.vscode/settings.json
+__pycache__/config.cpython-312.pyc
+commands/__pycache__/__init__.cpython-312.pyc
+commands/compare_bodies/__pycache__/entry.cpython-312.pyc
+commands/compare_bodies/__pycache__/__init__.cpython-312.pyc
+lib/fusionAddInUtils/__pycache__/__init__.cpython-312.pyc
+lib/fusionAddInUtils/__pycache__/event_utils.cpython-312.pyc
+lib/fusionAddInUtils/__pycache__/general_utils.cpython-312.pyc
